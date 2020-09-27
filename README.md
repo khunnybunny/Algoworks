@@ -3,7 +3,7 @@ Algoworks Mini Assignment
 
 Hi All,
 
-how to run the APi:
+HOW TO RUN THE API:
 OPEN TERMINAL
 GO TO FOLDER
 npm i
